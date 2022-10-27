@@ -27,10 +27,10 @@
  3. Put the downloaded model in the inference folder.
  4. Run `inference/main.py`: \
  `python inference/main.py`
- 5. You would be able to see a small graphical interface like this:\
+ 5. You would be able to see a small graphical interface like this
 <img src="images/gui.png" style="display: inline-block; margin: 0 auto; max-width: 600px">
- 6. Select a color, select a pen size, and start sketching your galaxies: \
+ 6. Select a color, select a pen size, and start sketching your galaxies:
  <img src="images/input_empty.png" style="display: inline-block; margin: 0 auto; max-width: 600px">
- 7. Once finished, click on the button "Done": \
+ 7. Once finished, click on the button "Done":
  <img src="images/input_output.png" style="display: inline-block; margin: 0 auto; max-width: 600px">
 
