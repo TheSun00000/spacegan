@@ -10,11 +10,11 @@
 
 | Sketch | Generated image |
 |--|--|
-|<img src="images/test1_input.png" style="display: inline-block; margin: 0 auto; max-width: 300px"> |<img src="images/test1_output.png" style="display: inline-block; margin: 0 auto; max-width: 300px">|
+|<img src="images/test1_input.png" style="display: inline-block; margin: 0 auto; max-width: 150px"> |<img src="images/test1_output.png" style="display: inline-block; margin: 0 auto; max-width: 150px">|
 
 | Sketch | Generated image |
 |--|--|
-|<img src="images/test2_input.png" style="display: inline-block; margin: 0 auto; max-width: 300px"> |<img src="images/test2_output.png" style="display: inline-block; margin: 0 auto; max-width: 300px">|
+|<img src="images/test2_input.png" style="display: inline-block; margin: 0 auto; max-width: 150px"> |<img src="images/test2_output.png" style="display: inline-block; margin: 0 auto; max-width: 150px">|
 
 
 ---
