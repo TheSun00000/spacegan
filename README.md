@@ -1,6 +1,12 @@
 # SpaceGAN:
 
 
+$
+f(x) = \underset{C}{\operatorname{argmax}} P(C_{i} | x) \\\:\\
+= \underset{C}{\operatorname{argmax}} \{P(Cooks | x), P(Orders | x)\} \\\:\\
+$
+
+
 **SpaceGAN** is a deep learning model that generates space images based on a sketch. It is inspired from the paper: **Semantic Image Synthesis with Spatially-Adaptive Normalization**  [\[arxiv\]](https://arxiv.org/abs/1903.07291)
 
 ---
