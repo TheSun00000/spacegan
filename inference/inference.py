@@ -235,7 +235,7 @@ class SPADEGenerator(BaseNetwork):
 
 
 trained_generator = SPADEGenerator()
-trained_generator.load_state_dict(torch.load('./gui/generator230.pt', map_location='cpu'))
+trained_generator.load_state_dict(torch.load('./inference/generator230.pt', map_location='cpu'))
 
 def segmentation2space(seg_path):
     seg_ = plt.imread(seg_path)
